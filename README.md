@@ -1,7 +1,3 @@
-<!-- Optional: add your logo. Upload logo.png to the repo root or replace the path -->
-<p align="center">
-  <img src="./logo.png" alt="Khalid Al-Muqati Logo" height="90">
-</p>
 
 # 🧠 Khalid Al-Muqati
 

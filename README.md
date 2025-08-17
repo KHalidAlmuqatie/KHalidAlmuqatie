@@ -33,15 +33,10 @@ Real-time attendance with late/unauthorized detection and phone-use monitoring.
 ## 🧰 Languages & Tools
 
 <!-- Stage A -->
-### Stage A — Programming Languages
+### Programming Languages
 <p align="left">
   <a href="https://www.python.org/" title="Python"><img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42"/></a>
-  <a href="https://www.typescriptlang.org/" title="TypeScript"><img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42"/></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42"/></a>
-  <a href="https://isocpp.org/" title="C++"><img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42"/></a>
   <a href="https://www.java.com/" title="Java"><img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42"/></a>
-  <a href="https://www.gnu.org/software/bash/" title="Bash"><img alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="42"/></a>
 </p>
 
 <p align="center"><sub>Tip: Duplicate an &lt;img&gt; and change its <code>src</code> + <code>title</code> to add a new logo.</sub></p>
@@ -49,7 +44,7 @@ Real-time attendance with late/unauthorized detection and phone-use monitoring.
 ---
 
 <!-- Stage B -->
-### Stage B — Web (Front-End)
+### Web (Front-End)
 <p align="left">
   <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML5"><img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42"/></a>
   <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS3"><img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42"/></a>
@@ -63,12 +58,10 @@ Real-time attendance with late/unauthorized detection and phone-use monitoring.
 ---
 
 <!-- Stage C -->
-### Stage C — Backend & APIs
+### Backend & APIs
 <p align="left">
   <a href="https://nodejs.org/" title="Node.js"><img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42"/></a>
-  <a href="https://expressjs.com/" title="Express"><img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="42"/></a>
   <a href="https://flask.palletsprojects.com/" title="Flask"><img alt="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="42"/></a>
-  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img alt="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="42"/></a>
 </p>
 
 <p align="center"><sub>Swap frameworks easily—just change the icon links above.</sub></p>
@@ -76,7 +69,7 @@ Real-time attendance with late/unauthorized detection and phone-use monitoring.
 ---
 
 <!-- Stage D -->
-### Stage D — ML & Data
+### ML & Data
 <p align="left">
   <a href="https://pytorch.org/" title="PyTorch"><img alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="42"/></a>
   <a href="https://www.tensorflow.org/" title="TensorFlow"><img alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42"/></a>
@@ -91,28 +84,12 @@ Real-time attendance with late/unauthorized detection and phone-use monitoring.
 
 ---
 
-<!-- Stage E -->
-### Stage E — Databases
-<p align="left">
-  <a href="https://www.postgresql.org/" title="PostgreSQL"><img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42"/></a>
-  <a href="https://www.mysql.com/" title="MySQL"><img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42"/></a>
-  <a href="https://www.sqlite.org/index.html" title="SQLite"><img alt="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="42"/></a>
-  <a href="https://www.mongodb.com/" title="MongoDB"><img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42"/></a>
-</p>
-
-<p align="center"><sub>Pick what you use most; you can remove others.</sub></p>
-
----
-
 <!-- Stage F -->
-### Stage F — DevOps & Cloud
+### DevOps & Cloud
 <p align="left">
   <a href="https://git-scm.com/" title="Git"><img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/></a>
   <a href="https://github.com/" title="GitHub"><img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42"/></a>
   <a href="https://www.docker.com/" title="Docker"><img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42"/></a>
-  <a href="https://www.nginx.com/" title="Nginx"><img alt="Nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="42"/></a>
-  <a href="https://aws.amazon.com/" title="AWS"><img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="42"/></a>
-  <a href="https://vercel.com/" title="Vercel"><img alt="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="42"/></a>
   <a href="https://www.linux.org/" title="Linux"><img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42"/></a>
 </p>
 
@@ -121,7 +98,7 @@ Real-time attendance with late/unauthorized detection and phone-use monitoring.
 ---
 
 <!-- Stage G -->
-### Stage G — Tools & IDEs
+### Tools & IDEs
 <p align="left">
   <a href="https://code.visualstudio.com/" title="VS Code"><img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42"/></a>
   <a href="https://www.postman.com/" title="Postman"><img alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="42"/></a>

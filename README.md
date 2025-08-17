@@ -41,19 +41,6 @@ Real-time attendance with late/unauthorized detection and phone-use monitoring.
 
 <p align="center"><sub>Tip: Duplicate an &lt;img&gt; and change its <code>src</code> + <code>title</code> to add a new logo.</sub></p>
 
----
-
-<!-- Stage B -->
-### Web (Front-End)
-<p align="left">
-  <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML5"><img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42"/></a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS3"><img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42"/></a>
-  <a href="https://react.dev/" title="React"><img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42"/></a>
-  <a href="https://nextjs.org/" title="Next.js"><img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42"/></a>
-  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img alt="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="42"/></a>
-</p>
-
-<p align="center"><sub>Reorder by moving the image tags; comment out any tech you don’t use yet.</sub></p>
 
 ---
 

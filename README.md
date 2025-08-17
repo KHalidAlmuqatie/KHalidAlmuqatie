@@ -17,11 +17,27 @@ I enjoy computer vision, model deployment, MLOps basics, and building simple das
 ---
 
 ### 🔭 Featured Project
-**Smart Attendance System**  
-Real-time attendance with late/unauthorized detection and phone-use monitoring.  
-- **CV/Detection:** ResNet for face recognition, YOLOv8 for phone detection  
-- **Stack:** PyTorch, OpenCV, Python  
-- **Backend & UI:** Flask dashboard with reports/visuals
+**Smart Attendance System** — Real-time attendance with late/unauthorized detection and phone-use monitoring using ResNet (faces) and YOLOv8 (phones). Flask dashboard for reports/visuals.
+
+---
+
+## 🚀 Projects (Summaries)
+
+### P1 — Arabic Keyword Extraction (Hybrid Set-wise + Few-shot)
+Extracts **class-specific Arabic keywords** and classifies news by combining **sentence-transformer embeddings**, set-wise aggregation, and **few-shot seed refinement**. Evaluated with exact/partial match and standard classification metrics.  
+**Tech:** Python, sentence-transformers, camel-tools, scikit-learn, thefuzz, NumPy, Pandas, Torch.
+
+---
+
+### P2 — almostFF95.ipynb (Notebook)
+An **experimentation notebook** for ML/CV ideas—EDA, quick model trials, and visualizations—designed to run in **Jupyter/VS Code** with reproducible cells and clean outputs.  
+**Tech:** Python, Jupyter, NumPy/Pandas, Matplotlib (as needed).
+
+---
+
+### P3 — Multi-dock Pallet Tracker (YOLOv8 + ByteTrack + HUD)
+**Real-time dock monitoring** with YOLOv8 detection and **ByteTrack** tracking, user-drawn polygon ROIs, per-ID **timers** (in/out/spent), and exports (annotated **MP4**, **summary PNG**, **CSV logs**).  
+**Tech:** Ultralytics YOLOv8, ByteTrack, OpenCV, PyTorch, YAML/CSV.
 
 ---
 
@@ -48,7 +64,6 @@ Real-time attendance with late/unauthorized detection and phone-use monitoring.
 
 ## 🧰 Languages & Tools
 
-<!-- Section 1 -->
 ### Programming Languages
 <p align="left">
   <a href="https://www.python.org/" title="Python">
@@ -64,7 +79,6 @@ Real-time attendance with late/unauthorized detection and phone-use monitoring.
 
 ---
 
-<!-- Section 2 -->
 ### Backend & APIs
 <p align="left">
   <a href="https://nodejs.org/" title="Node.js">
@@ -80,7 +94,6 @@ Real-time attendance with late/unauthorized detection and phone-use monitoring.
 
 ---
 
-<!-- Section 3 -->
 ### ML & Data
 <p align="left">
   <a href="https://pytorch.org/" title="PyTorch">
@@ -112,7 +125,6 @@ Real-time attendance with late/unauthorized detection and phone-use monitoring.
   </a>
 </p>
 
-<!-- Extra ML badges for tech without devicons -->
 <p align="left">
   <img alt="YOLOv8" src="https://img.shields.io/badge/YOLOv8-ultralytics-FF6F00" height="22">
   &nbsp;
@@ -123,7 +135,6 @@ Real-time attendance with late/unauthorized detection and phone-use monitoring.
 
 ---
 
-<!-- Section 4 -->
 ### DevOps & Cloud
 <p align="left">
   <a href="https://git-scm.com/" title="Git">
@@ -143,11 +154,8 @@ Real-time attendance with late/unauthorized detection and phone-use monitoring.
   </a>
 </p>
 
-<p align="center"><sub>On dark themes, the GitHub logo looks dark—swap to a white badge if you prefer.</sub></p>
-
 ---
 
-<!-- Section 5 -->
 ### Tools & IDEs
 <p align="left">
   <a href="https://code.visualstudio.com/" title="VS Code">
@@ -162,8 +170,6 @@ Real-time attendance with late/unauthorized detection and phone-use monitoring.
     <img alt="Anaconda" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="56"/>
   </a>
 </p>
-
-<p align="center"><sub>Need more? Copy a section, change the title, and paste in icons.</sub></p>
 
 ---
 

@@ -1,4 +1,3 @@
-
 # 🧠 Khalid Al-Muqati
 
 **Aspiring AI/ML Engineer • B.Sc. Artificial Intelligence @ Umm Al-Qura University**
@@ -7,10 +6,10 @@ I'm an aspiring AI/ML engineer and current B.Sc. Artificial Intelligence student
 I enjoy computer vision, model deployment, MLOps basics, and building simple dashboards/APIs to turn models into usable products.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/khalid-al-muqatie-9254a8271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+  <a href="https://www.linkedin.com/in/khalid-al-muqatie-9254a8271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://x.com/2cs7r?s=21" target="_blank">
+  <a href="https://x.com/2cs7r?s=21">
     <img alt="Follow on X" src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
 </p>
@@ -26,21 +25,41 @@ Real-time attendance with late/unauthorized detection and phone-use monitoring.
 
 ---
 
+## 🔧 Key Skills (from the pallet-tracker project)
+- Real-time **computer vision**, object detection (**YOLOv8**)
+- Multi-object tracking (**ByteTrack**) with stable IDs
+- **OpenCV** video I/O, polygon **ROI** drawing (mouse callbacks), HUD overlays
+- Zone membership via `cv2.pointPolygonTest` (point-in-polygon)
+- **PyTorch** (Ultralytics backend), threshold/IoU/track-buffer tuning
+- **CSV** logging, **summary PNG** report rendering, annotated MP4 export
+- **YAML** config editing & overrides, temp file handling
+- (If applicable) **GPU/CUDA** inference (`device=0`) for real time
+
+<p>
+  <img alt="YOLOv8" src="https://img.shields.io/badge/YOLOv8-ultralytics-FF6F00">
+  <img alt="ByteTrack" src="https://img.shields.io/badge/ByteTrack-MOT_tracking-6E4AFF">
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
+  <img alt="YAML" src="https://img.shields.io/badge/YAML-config-000000">
+  <img alt="CSV" src="https://img.shields.io/badge/CSV-logs-2C8EBB">
+</p>
+
+---
+
 ## 🧰 Languages & Tools
 
-<!-- Stage A -->
+<!-- Section 1 -->
 ### Programming Languages
 <p align="left">
   <a href="https://www.python.org/" title="Python"><img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/></a>
   <a href="https://www.java.com/" title="Java"><img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42"/></a>
 </p>
 
-<p align="center"><sub>Tip: Duplicate an &lt;img&gt; and change its <code>src</code> + <code>title</code> to add a new logo.</sub></p>
-
+<p align="center"><sub>Tip: duplicate an &lt;img&gt; and change its <code>src</code> + <code>title</code> to add a new logo.</sub></p>
 
 ---
 
-<!-- Stage C -->
+<!-- Section 2 -->
 ### Backend & APIs
 <p align="left">
   <a href="https://nodejs.org/" title="Node.js"><img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42"/></a>
@@ -51,7 +70,7 @@ Real-time attendance with late/unauthorized detection and phone-use monitoring.
 
 ---
 
-<!-- Stage D -->
+<!-- Section 3 -->
 ### ML & Data
 <p align="left">
   <a href="https://pytorch.org/" title="PyTorch"><img alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="42"/></a>
@@ -63,11 +82,17 @@ Real-time attendance with late/unauthorized detection and phone-use monitoring.
   <a href="https://jupyter.org/" title="Jupyter"><img alt="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="42"/></a>
 </p>
 
+<!-- Extra ML badges for tech without devicons -->
+<p align="left">
+  <img alt="YOLOv8" src="https://img.shields.io/badge/YOLOv8-ultralytics-FF6F00" height="22">
+  <img alt="ByteTrack" src="https://img.shields.io/badge/ByteTrack-MOT_tracking-6E4AFF" height="22">
+</p>
+
 <p align="center"><sub>Hover a logo to see its name; click to open docs.</sub></p>
 
 ---
 
-<!-- Stage F -->
+<!-- Section 4 -->
 ### DevOps & Cloud
 <p align="left">
   <a href="https://git-scm.com/" title="Git"><img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/></a>
@@ -76,11 +101,11 @@ Real-time attendance with late/unauthorized detection and phone-use monitoring.
   <a href="https://www.linux.org/" title="Linux"><img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42"/></a>
 </p>
 
-<p align="center"><sub>Monochrome icons (GitHub/AWS) match dark themes nicely.</sub></p>
+<p align="center"><sub>On dark themes, the GitHub logo is black—swap to a white badge if you prefer.</sub></p>
 
 ---
 
-<!-- Stage G -->
+<!-- Section 5 -->
 ### Tools & IDEs
 <p align="left">
   <a href="https://code.visualstudio.com/" title="VS Code"><img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42"/></a>
@@ -88,7 +113,13 @@ Real-time attendance with late/unauthorized detection and phone-use monitoring.
   <a href="https://www.anaconda.com/" title="Anaconda"><img alt="Anaconda" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="42"/></a>
 </p>
 
-<p align="center"><sub>Need more? Copy a stage, change the title, and paste in icons.</sub></p>
+<!-- Extra badges for formats/workflows -->
+<p align="left">
+  <img alt="YAML" src="https://img.shields.io/badge/YAML-config-000000" height="22">
+  <img alt="CSV" src="https://img.shields.io/badge/CSV-logs-2C8EBB" height="22">
+</p>
+
+<p align="center"><sub>Need more? Copy a section, change the title, and paste in icons.</sub></p>
 
 ---
 
